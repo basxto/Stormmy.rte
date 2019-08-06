@@ -1,13 +1,16 @@
 ## Graphics
 
-[Actors/Dummy/HeadA.bmp](./Actors/Dummy/HeadA.bmp), [Devices/Sprites/SMG.bmp](./Devices/Sprites/SMG.bmp), [Devices/Sprites/Pistol.bmp](./Devices/Sprites/Pistol.bmp) and [Devices/Sprites/Digger.bmp](./Devices/Sprites/Digger.bmp) are based on [gunman.png][] from [CC0 Scraps][], which is licensed under [CC0][] by [surt][].
+[![Actors/Dummy/HeadA.bmp][HeadA]][HeadA], [![Devices/Sprites/SMG.bmp][SMG]][SMG], [![Devices/Sprites/Pistol.bmp][Pistol]][Pistol] and [![Devices/Sprites/Digger.bmp][Digger]][Digger] are based on [gunman.png][] from [CC0 Scraps][], which is licensed under [CC0][] by [surt][].
 
 Rest is licensed under [CC0][] by [Basxto][].
 
 ## Sound
 
 
-
+[HeadA]: ./Actors/Dummy/HeadA.bmp
+[SMG]: ./Devices/Sprites/SMG.bmp
+[Pistol]: ./Devices/Sprites/Pistol.bmp
+[Digger]: ./Devices/Sprites/Digger.bmp
 
 
 [gunman.png]: http://img.uninhabitant.com/gunman.png
