@@ -1,6 +1,6 @@
 ## Graphics
 
-[Actors/Dummy/HeadA.bmp](./Actors/Dummy/HeadA.bmp) is based on [gunman.png][] from [CC0 Scraps][], which is licensed under [CC0][] by [surt][].
+[Actors/Dummy/HeadA.bmp](./Actors/Dummy/HeadA.bmp), [Devices/Sprites/SMG.bmp](./Devices/Sprites/SMG.bmp), [Devices/Sprites/Pistol.bmp](./Devices/Sprites/Pistol.bmp) and [Devices/Sprites/Digger.bmp](./Devices/Sprites/Digger.bmp) are based on [gunman.png][] from [CC0 Scraps][], which is licensed under [CC0][] by [surt][].
 
 Rest is licensed under [CC0][] by [Basxto][].
 
