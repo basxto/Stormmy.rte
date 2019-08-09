@@ -1,4 +1,4 @@
-Stormmy.rte is a self-containing action for blackCortex / Cortex Command
+![](./icon.bmp) Stormmy.rte is a self-containing action for blackCortex / Cortex Command
 
 All configuration and lua files are licensed under MIT.
 
